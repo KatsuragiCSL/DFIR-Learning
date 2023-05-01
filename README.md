@@ -10,3 +10,4 @@ This is a place to share my learning on (practical aspects of) DFIR stuffs. This
 | [Practical Mobile Forensics](https://www.packtpub.com/product/practical-mobile-forensics-fourth-edition/9781838647520)      | Mobile Forensics      | Not started  |
 | [Practical Memory Forensics](https://www.packtpub.com/product/practical-memory-forensics/9781801070331)      | Memory Forensics      | Not started  |
 | [Practical Packet Analysis: Using Wireshark to Solve Real-World Network Problems](https://www.amazon.com/Practical-Packet-Analysis-Wireshark-Real-World/dp/1593272669)	| Network Forensics      | Not started  |
+| [Practical Forensics Imaging](https://www.amazon.com/Practical-Forensic-Imaging-Securing-Evidence/dp/1593277938)		| Digital evidence	| Not started	|
